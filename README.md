@@ -66,8 +66,3 @@ php artisan serve
 ```shell
 npm run watch
 ```
-
-#### Username & password
-
-- Username : admin@gmail.com
-- Password : 123456
